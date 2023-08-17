@@ -1,3 +1,3 @@
 # TechBlog-server
 
-test
+test!
